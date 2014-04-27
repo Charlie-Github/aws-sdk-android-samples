@@ -3,7 +3,9 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Charlie/Documents/Main/edibleProject/Amazon-AWS/sdk/aws-android-sdk-1.7.1.1/aws-android-sdk-1.7.1.1/lib/aws-android-sdk-1.7.1.1-debug.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Charlie/Downloads/adt-bundle-windows-x86_64-20140321/adt-bundle-windows-x86_64-20140321/sdk/platforms/android-19/android.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

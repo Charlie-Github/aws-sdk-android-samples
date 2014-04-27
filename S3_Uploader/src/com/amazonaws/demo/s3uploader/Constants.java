@@ -28,11 +28,11 @@ public class Constants {
 	// * http://aws.amazon.com/articles/Mobile/4617974389850313
 	//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	
-	public static final String ACCESS_KEY_ID = "CHANGE ME";
-	public static final String SECRET_KEY = "CHANGE ME";
+	public static final String ACCESS_KEY_ID = "AKIAJ7QLVGWNQ7FHNROA";
+	public static final String SECRET_KEY = "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";
 	
-	public static final String PICTURE_BUCKET = "picture-bucket";
-	public static final String PICTURE_NAME = "NameOfThePicture";
+	public static final String PICTURE_BUCKET = "edible-bluecheese-first-bucket";
+	public static final String PICTURE_NAME = "selfie.JPG";
 	
 	
 	public static String getPictureBucket() {
